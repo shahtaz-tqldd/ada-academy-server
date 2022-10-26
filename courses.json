@@ -1,0 +1,24 @@
+[
+    {   
+        "id": 1,
+        "name": "Learn Javascript in 90 Days",
+        "courseImg": "https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png",
+        "instructor": {
+            "name" : "Mr. Timber", 
+            "authorImg": "https://www.mnp.ca/-/media/foundation/integrations/personnel/2020/12/16/13/57/personnel-image-4483.jpg?h=800&w=600&hash=9D5E5FCBEE00EB562DCD8AC8FDA8433D",
+            "rating": 4.5
+        },
+        "duration" : "3 Months",
+        "description" : "You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! But... You don't have to go into all these topics. This is a huge course, because, after all, it's 'The Complete JavaScript Course'. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster. By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.",
+        "outline": [
+            "Fandamental of Javascript", 
+            "Developer Skills",
+            "DOM manupulation",
+            "Event Loop",
+            "ES6 and ES7",
+            "How Browser works and V8 Engines"
+        ],
+        "numberStudent": 405,
+        "ratings": 4.5
+    }
+]
