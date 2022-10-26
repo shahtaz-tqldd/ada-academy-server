@@ -18,7 +18,118 @@
             "ES6 and ES7",
             "How Browser works and V8 Engines"
         ],
-        "numberStudent": 405,
+        "numberStudent": 3405,
+        "ratings": 4.5
+    },
+    {   
+        "id": 2,
+        "name": "Advanced Python Programming",
+        "courseImg": "https://ourcodeworld.com/public-media/articles/articleocw-5c65fbda1ea05.jpg",
+        "instructor": {
+            "name" : "Stuart Javier", 
+            "authorImg": "https://imageio.forbes.com/specials-images/imageserve/61688aa1d4a8658c3f4d8640/Antonio-Juliano/0x0.jpg?format=jpg&width=960",
+            "rating": 4.3
+        },
+        "duration" : "3.5 Months",
+        "description" : "We'll take you step-by-step through engaging video tutorials and teach you everything you need to know to succeed as a Python developer. The course includes over 60 hours of HD video tutorials and builds your programming knowledge while making real-world Python projects.",
+        "outline": [
+            "Python 3 - the latest version of Python", 
+            "Web Scraping",
+            "Selenium Web Driver",
+            "NumPy",
+            "Python GUI Desktop App Development",
+            "Beautiful Soup",
+            "Seaborn & Turtle"
+        ],
+        "numberStudent": 2215,
+        "ratings": 4.7
+    },
+    {   
+        "id": 3,
+        "name": "Complete React with Redux",
+        "courseImg": "https://miro.medium.com/max/700/1*dLaDL-lSN0iprzmOpmM7zQ.png",
+        "instructor": {
+            "name" : "John C. Samuel", 
+            "authorImg": "https://uploads-ssl.webflow.com/5a5e4ab8fab60f00019e499d/5f5f1a504d3eae64d9c699c1_1_Palakorn.png",
+            "rating": 4.9
+        },
+        "duration" : "3 Months",
+        "description" : "This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer. This is a huge course because it really covers EVERYTHING you need to know and learn to become a React.js developer! No matter if you know nothing about React or if you already got some basic React knowledge (not required but also not a problem), you will get tons of useful information and knowledge out of this course! My goal with this course is to ensure that you feel confident working with React, so that you can apply for React jobs, use it in your own projects or simply enhance your portfolio as a developer - whatever your goal is: This course gets you there!",
+        "outline": [
+            "Basic Javascript Before React", 
+            "Why should we learn react",
+            "What are JSX and its Use",
+            "React Hooks",
+            "Usefult Tools of Context API",
+            "A complete React E commerce Projet"
+        ],
+        "numberStudent": 2307,
+        "ratings": 4.6
+    },
+    {   
+        "id": 4,
+        "name": "Python for Data Science",
+        "courseImg": "https://fullscale.io/wp-content/uploads/2022/04/python-data-science.png",
+        "instructor": {
+            "name" : "Jonathan Tailor", 
+            "authorImg": "https://upload.wikimedia.org/wikipedia/commons/2/23/Photo_portrait_PP.jpg",
+            "rating": 4.3
+        },
+        "duration" : "4 Months",
+        "description" : "This course is great for professionals, as it provides step by step instruction of tests with clear and accurate explanations. Get ahead of the competition and make these tests important parts of your data analytic toolkit! Students will also have the tools needed to succeed in their statistics and experimental design courses. Data Analytics is an rapidly growing area in high demand (e.g., McKinsey) Statistics play a key role in the process of making sound business decisions that will generate higher profits. Without statistics, it's difficult to determine what your target audience wants and needs. Inferential statistics, in particular, help you understand a population's needs better so that you can provide attractive products and services. This course is designed for business professionals who want to know how to analyze data. You'll learn how to use IBM SPSS to draw accurate conclusions on your research and make decisions that will benefit your customers and your bottom line.",
+        "outline": [
+            "Data Science Fandamental", 
+            "Basic Python and variables",
+            "Work with Beautify",
+            "Python tools for data manupulation",
+            "Graphical Interface of Data Verification",
+            "A CRM project with Python"
+        ],
+        "numberStudent": 1311,
+        "ratings": 4.4
+    },
+    {   
+        "id": 5,
+        "name": "Basic C programming Fundamental",
+        "courseImg": "https://www.classcentral.com/report/wp-content/uploads/2022/06/C-Programming-BCG-Banner.png",
+        "instructor": {
+            "name" : "Dennis Frodo", 
+            "authorImg": "hhttps://www.theportlandclinic.com/wp-content/uploads/2019/07/Person-Curtis_4x5-e1564616444404-300x300.jpg",
+            "rating": 4.2
+        },
+        "duration" : "2.5 Months",
+        "description" : "By the end of this course, you will understand the fundamentals of the C Programming Language, and make yourself more marketable for entry level programming positions. You will understand variables and the different data types, be able to utilize functions and arrays, understand the  concept of pointers, learn about control flow (decision statements and iteration). You will be in a position to apply for real-time programming positions, and truly understand the core language that most modern languages are based on! If you have previously used the C programming language, then this course will deepen your understanding of it. If you have never used it, no problem, you will see that it can help you become a more efficient C developer. The course will be constantly refined in the future based on student feedback!",
+        "outline": [
+            "Data structure and algorithm", 
+            "Libraries in C",
+            "If else condition",
+            "For loop",
+            "Do while loop",
+            "Array and condition"
+        ],
+        "numberStudent": 2149,
+        "ratings": 4.3
+    },
+    {   
+        "id": 6,
+        "name": "Learn C++ in 50 Days",
+        "courseImg": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+        "instructor": {
+            "name" : "Emilia Soverien", 
+            "authorImg": "https://www.usn.no/getfile.php/13643698-1606723120/usn.no/forskning/Doktorgradsutdanning/Person-centred%20Healthcare/PhD%20Personorientert%20helsearbeid_Sabrina-Krogh-Schmidt.jpg",
+            "rating": 4.4
+        },
+        "duration" : "2 Months",
+        "description" : "Much, if not most of the software written today is still written in C++ and this has been the case for many, many years. Not only is C++ popular, but it is also a very relevant language. If you go to GitHub you will see that there are a huge number of active C++ repositories and C++ is also extremely active on stack overflow. There are many, many leading software titles written entirely or partly in C++. These include the Windows, Linux, and Mac OSX operating systems! Many of the Adobe products such as Photoshop and Illustrator,  the MySQL and MongoDB database engines, and many many more are written in C++. Leading tech companies use C++ for many of their products and internal research and development. These include Amazon, Apple, Microsoft, PayPal, Google, Facebook, Oracle, and many more.",
+        "outline": [
+            "Why c++?",
+            "Installation and Useful tools", 
+            "Basic variable declaration",
+            "Building logic",
+            "Condition and array",
+            "Competitive programming and Problem Solving"
+        ],
+        "numberStudent": 1376,
         "ratings": 4.5
     }
 ]
