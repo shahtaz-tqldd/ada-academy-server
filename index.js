@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const cors = require('cors');
 const courses = require('./courses.json')
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 5500;
 
 app.use(cors());
 
