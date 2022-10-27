@@ -1,7 +1,10 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 const courses = require('./courses.json')
-const port = 5000;
+const port = process.env.PORT || 5000;
+
+app.use(cors());
 
 app.get('/', (req, res)=>{
     res.send('Server is running...')
