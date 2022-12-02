@@ -7,7 +7,7 @@ const port = process.env.PORT || 5500;
 app.use(cors());
 
 app.get('/', (req, res)=>{
-    res.send('Server is running...')
+    res.send('ada academy Server is running...')
 })
 
 app.get('/courses',(req, res)=>{
